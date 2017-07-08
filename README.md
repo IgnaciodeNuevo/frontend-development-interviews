@@ -1,4 +1,4 @@
-# Frontend Development Interviews
+# Frontend Development Interview Questions
 
 > A curated list of lists of frontend interview questions.
 
