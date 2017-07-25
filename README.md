@@ -4,14 +4,17 @@
 
 ## Table of Contents
 
+1. [General](#general)
 1. [General Articles](#general-articles)
 1. [General Questions](#general-questions)
 1. [General Resources](#general-resources)
 1. [Books](#books)
 1. [Videos](#videos)
 1. [HTML Questions](#html-questions)
+1. [CSS](#css)
 1. [CSS Articles](#css-articles)
 1. [CSS Questions](#css-questions)
+1. [JavaScript](#javascript)
 1. [JavaScript Articles](#javascript-articles)
 1. [JavaScript Questions](#javascript-questions)
 1. [Testing Questions](#testing-questions)
@@ -20,8 +23,11 @@
 1. [Coding Questions](#coding-questions)
 1. [Fun Questions](#fun-questions)
 1. [Questions to know the company better](#questions-to-know-the-company-better)
+1. [Company](#company)
+1. [Work-life balance](#work-life-balance)
+1. [Hiring and onboarding](#hiring-and-onboarding)
 1. [Project Management](#project-management)
-1. [Clients](#clients)
+1. [Clients and Meetings](#clients-and-meetings)
 1. [Bonus Questions](#bonus-questions)
 1. [Coding](#coding)
 1. [Markup](#markup)
@@ -83,7 +89,7 @@
  
 + [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw&app=desktop)
 
-## HTML Questions:
+## HTML Questions
 
 + Are there any problems with serving pages as `application/xhtml+xml`?
 + Consider HTML5 as an open web platform. What are the building blocks of HTML5?
@@ -353,7 +359,7 @@ console.log('three');
 + Is there the possibility to work remotely?
 + What time do people normally leave work?
 
-#### Vacation
+#### Holidays
 
 + How much vacation do people get? If there's "unlimited" vacation, how much vacation do people normally take?
 
@@ -427,7 +433,7 @@ console.log('three');
 + What is your standard development toolkit?
 + Who decides what features get built?
 
-Open Source
+### Open Source
 
 + Do you allow employees to publish code (Github)?
 + Which organisations work on open source?
