@@ -2,9 +2,29 @@
 
 > A curated list of lists of frontend interview questions and articles to face Front-end Interviews.
 
+## Table of Contents
+
+ 1. [General Articles](#general-articles)
+ 1. [General Questions](#general-questions)
+ 1. [General Resources](#general-resources)
+ 1. [Books](#books)
+ 1. [Videos](#videos)
+ 1. [HTML Questions](#html-questions)
+ 1. [CSS Articles](#css-articles)
+ 1. [CSS Questions](#css-questions)
+ 1. [JavaScript Articles](#javascript-articles)
+ 1. [JavaScript Questions](#javascript-questions)
+ 1. [Testing Questions](#testing-questions)
+ 1. [Performance Questions](#performance-questions)
+ 1. [Management Questions](#management-questions)
+ 1. [Project Management](#project-management)
+ 1. [Clients](#clients)
+ 1. [Bonus Questions](#bonus-questions)
+ 1. [Coding Standards](#coding-standards)
+
 ## General
 
-### Articles
+### General Articles
 
  + [A collection of about 200 "what are the best" dev questions with answers](https://www.reddit.com/r/webdev/comments/41k1yy/a_collection_of_about_200_what_are_the_best_dev/)
  + [A developer’s guide to interviewing](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
@@ -14,7 +34,7 @@
  + [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
  + [Questions for our first 1:1](http://larahogan.me/blog/first-one-on-one-questions/)
  
-### Questions
+### General Questions
 
  + Can you describe the difference between progressive enhancement and graceful degradation?
  + Can you describe your workflow when you create a web page?
@@ -38,15 +58,15 @@
  + What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
  + Which version control systems are you familiar with?
 
-### Resources
+## General Resources
  
  + [Let's Code](https://leetcode.com/)
 
- ## Books
+## Books
  
  + [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
  
- ## Videos
+## Videos
  
  + [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw&app=desktop)
 
@@ -68,7 +88,7 @@
 
 ## CSS
 
-### Articles
+### CSS Articles
 
  + [25 helpful CSS interview questions and answers](http://www.skilledup.com/articles/25-css-interview-questions-answers)
  + [CSS interview questions and answers for freshers and experienced candidates Also there you can find CSS online practice tests to fight written tests and certification exams on CSS](http://www.careerride.com/Interview-Questions-CSS.aspx)
@@ -76,7 +96,7 @@
  + [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
  + [Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
 
-### Questions
+### CSS Questions
 
  + Are you familiar with styling SVG?
  + Describe BFC(Block Formatting Context) and how it works.
@@ -112,10 +132,9 @@
  + What's the difference between a relative, fixed, absolute and statically positioned element?
  + What's the difference between inline and inline-block?
 
-
 ## JavaScript
 
-### Articles
+### JavaScript Articles
 
  + [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
  + [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
@@ -139,7 +158,7 @@
  + [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
  + [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 
-### Questions
+### JavaScript Questions
 
  + Create a for loop that iterates up to `100` while outputting **"fizz"* + at multiples of `3`, **"buzz"* + at multiples of `5` and **"fizzbuzz"* + at multiples of `3` and `5`
  + Describe event bubbling.
@@ -209,7 +228,8 @@
 
 ## Management Questions
 
-### General Questions
+### Management Questions
+
  + Do you have a dress code?
  + How do you define front end development?
  + How many employees are in the company?
@@ -224,6 +244,7 @@
  + What tools do you use for internal communication? (email,chat,irc)
  
 ### Project Management
+
  + Can you describe a typical project life cycle?
  + Do you have dedicated project managers?
   + If so, how many?
@@ -239,6 +260,7 @@
   + Teams vs departments
 
 ### Clients
+
  + Are FEDs expected to meet with clients?
  + Do you send FEDs on sales calls?
  + Do you track hours?
@@ -252,6 +274,7 @@
  + Who is the primary POC for client interactions?
 
 ### Bonus Questions
+
  + Do you believe an employee should ever "stay as late as it takes to get the job done?"
  + Do you ever bring in lunch/dinner during crunch times?
  + Do you send employees to tech conferences?
@@ -260,7 +283,7 @@
 
 ## Coding Questions
 
-### Coding Standards
+### Coding
 
  + Do you allow employees to publish code?
  + Do you do code reviews?
