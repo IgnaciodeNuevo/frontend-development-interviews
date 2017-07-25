@@ -1,4 +1,4 @@
-# Frontend Interview Questions and Articles to face Front-end Interviews
+# Frontend Interview Questions and Articles to face Interviews
 
 > A curated list of lists of frontend interview questions and articles to face Front-end Interviews.
 
@@ -38,7 +38,7 @@
  + What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
  + Which version control systems are you familiar with?
 
-## General Resources
+### Resources
  
  + [Let's Code](https://leetcode.com/)
 
@@ -194,20 +194,20 @@
  + Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
  + Why would you use something like the `load` event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
 
-## Testing Questions:
+## Testing Questions
 
  + What are some advantages/disadvantages to testing your code?
  + What is the difference between a unit test and a functional/integration test?
  + What is the purpose of a code style linting tool?
  + What tools would you use to test your code's functionality?
 
-## Performance Questions:
+## Performance Questions
 
  + Explain the difference between layout, painting and compositing.
  + What are some ways you may improve your website's scrolling performance?
  + What tools would you use to find a performance bug in your code?
 
-## Management Questions
+## Management Questions
 
 ### General Questions
  + Do you have a dress code?
@@ -261,19 +261,21 @@
 ## Coding Questions
 
 ### Coding Standards
- +Do you allow employees to publish code?
- +Do you do code reviews?
- +Do you have a coder blog?
- +Do you have a preferred CMS or development platform?
- +Do you have coding style guide?
-  + Spaces or tabs?
- +Do you publish your code?
- +Macs or PCs?
- +What do you use for version control?
- +What is the oldest version of IE that you support?
- +What is your standard development toolkit?
 
-### Markup:
+ + Do you allow employees to publish code?
+ + Do you do code reviews?
+ + Do you have a coder blog?
+ + Do you have a preferred CMS or development platform?
+ + Do you have coding style guide?
+  + Spaces or tabs?
+ + Do you publish your code?
+ + Macs or PCs?
+ + What do you use for version control?
+ + What is the oldest version of IE that you support?
+ + What is your standard development toolkit?
+
+### Markup
+
  + Accessibility
   + Do you use WAI-ARIA?
   + Is accessible AJAX a priority?
@@ -282,23 +284,27 @@
  + Semantics fanatic or divs and spans as necessary?
 
 ### UX
+
  + Do you do user testing?
  + Do you have a UX team?
   + if yes, can you give me an overview of your UX process?
  + What's your current approach to mobile?
 
 ### Design
+
  + Are FEDs involved in the design process?
   + if so, at what point?
  + How many design comps are created for a typical project?
  + What format do you use for design comps?
 
 ### Programming
+
  + How many dedicated programmers do you have?
  + How much time are programmers allowed to spend mentoring?
  + What are the primary programming languages used?
 
 ### Quality Assurance
+
  + At what point in the build do you begin QA?
  + Bonus for continuous or unit testing
  + Do you collect metrics on site visitors and user agents?
