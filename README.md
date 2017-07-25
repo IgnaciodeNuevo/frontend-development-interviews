@@ -1,4 +1,4 @@
-# Frontend Interview Questions and Articles to face Interviews
+# Front-end Interview Questions and Articles to face Interviews
 
 > A curated list of lists of frontend interview questions and articles to face Front-end Interviews.
 
@@ -19,7 +19,7 @@
 1. [Network Questions](#network-questions)
 1. [Coding Questions](#coding-questions)
 1. [Fun Questions](#fun-questions)
-1. [Management Questions](#management-questions-1)
+1. [Questions to know the company better](#questions-to-know-the-company-better)
 1. [Project Management](#project-management)
 1. [Clients](#clients)
 1. [Bonus Questions](#bonus-questions)
@@ -56,7 +56,7 @@
 + Explain the importance of standards and standards bodies.
 + Explain what ARIA and screenreaders are, and how to make a website accessible.
 + How many resources will a browser download from a given domain at a time?
-   + What are the exceptions?
+  + What are the exceptions?
 + How would you optimize a website's assets/resources?
 + If you could master one technology this year, what would it be?
 + If you have 5 different stylesheets, how would you best integrate them into the site?
@@ -125,7 +125,7 @@
 + Have you used or implemented media queries or mobile specific layouts/CSS?
 + How do you optimize your webpages for print?
 + How do you serve your pages for feature-constrained browsers?
-   + What techniques/processes do you use?
+  + What techniques/processes do you use?
 + How is responsive design different from adaptive design?
 + How would you approach fixing browser-specific styling issues?
 + How would you implement a web design comp that uses non-standard fonts?
@@ -134,7 +134,7 @@
 + The 'C' in CSS stands for Cascading.  How is priority determined in assigning styles (a few examples)?  How can you use this system to your advantage?
 + What are some of the "gotchas" for writing efficient CSS?
 + What are the advantages/disadvantages of using CSS preprocessors?
-   + Describe what you like and dislike about the CSS preprocessors you have used.
+  + Describe what you like and dislike about the CSS preprocessors you have used.
 + What are the different ways to visually hide content (and make it available only for screen readers)?
 + What are the various clearing techniques and which is appropriate for what context?
 + What are your favourite image replacement techniques and which do you use when?
@@ -168,12 +168,12 @@
 + [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises)
 + [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 + [Ten questions I’ve been asked, most more than once, over six technical JavaScript job interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/)
-+ [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
++ [The Best Front-end JavaScript Interview Questions (written by a Front-end Engineer)](https://performancejs.com/post/hde6d32/The-Best-Front-end-JavaScript-Interview-Questions-(written-by-a-Front-end-Engineer))
 + [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 
 ### JavaScript Questions
 
-+ Create a for loop that iterates up to `100` while outputting **"fizz"*   + at multiples of `3`, **"buzz"*   + at multiples of `5` and **"fizzbuzz"*  + at multiples of `3` and `5`
++ Create a for loop that iterates up to `100` while outputting **"fizz"** at multiples of `3`, **"buzz"** at multiples of `5` and **"fizzbuzz"** at multiples of `3` and `5`
 + Describe event bubbling.
 + Difference between document load event and document DOMContentLoaded event?
 + Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
@@ -185,17 +185,17 @@
 + Explain how JSONP works (and how it's not really Ajax).
 + Explain how prototypal inheritance works
 + Explain the difference between mutable and immutable objects.
-   + How can you achieve immutability in your own code?
-   + What are the pros and cons of immutability?
-   + What is an example of an immutable object in JavaScript?
+  + How can you achieve immutability in your own code?
+  + What are the pros and cons of immutability?
+  + What is an example of an immutable object in JavaScript?
 + Explain the difference between synchronous and asynchronous functions.
 + Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
 + Explain the same-origin policy with regards to JavaScript.
 + Explain what a single page app is and how to make one SEO-friendly.
 + Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
-   + What needs to be changed to properly make it an IIFE?
+  + What needs to be changed to properly make it an IIFE?
 + Have you ever used JavaScript templating?
-   + If so, what libraries have you used?
+  + If so, what libraries have you used?
 + How do you organize your code? (module pattern, classical inheritance?)
 + Make this work:
   ```javascript
@@ -208,7 +208,7 @@
 + What is `"use strict";`? what are the advantages and disadvantages to using it?
 + What is a closure, and how/why would you use one?
 + What is event loop?
-   + What is the difference between call stack and task queue?
+  + What is the difference between call stack and task queue?
 + What is the difference between `==` and `===`?
 + What is the extent of your experience with Promises and/or their polyfills?
 + What language constructions do you use for iterating over object properties and array items?
@@ -216,7 +216,7 @@
 + What's a typical use case for anonymous functions?
 + What's the difference between `.call` and `.apply`?
 + What's the difference between a variable that is: `null`, `undefined` or undeclared?
-   + How would you go about checking for any of these states?
+  + How would you go about checking for any of these states?
 + What's the difference between an "attribute" and a "property"?
 + What's the difference between feature detection, feature inference, and using the UA string?
 + What's the difference between host objects and native objects?
@@ -309,7 +309,7 @@ setTimeout(function() {
 console.log('three');
 ```
 
-#### Fun Questions:
+### Fun Questions
 
 + Do you have any pet projects? What kind?
 + How do you like your coffee?
@@ -318,95 +318,141 @@ console.log('three');
 + What's your favorite feature of Internet Explorer?
 + Who inspires you in the front-end community?
 
-## Management Questions
+## Questions to know the company better
 
-### Management Questions
+### Company
 
++ Do employees have time to learn/be mentored during work hours?
++ Do you care about diversity?
+  + What's your process for making sure you have diversity in other ways?
++ Do you hace private medical insurance or extras?
 + Do you have a dress code?
++ Does the company attend/promote/sponsor Events, Conferences or Workshops?
++ Does your company support continuing education? (will they pay for employees to do a master's degree?)
 + How do you define front end development?
++ How do you manage company expenses?
+  + If you need to go to a client's company how do you ask for bill refounds?
 + How many employees are in the company?
-+ How many hours a week does a typical FED spend in meetings?
-+ How many hours do you expect in a typical day/week?
-+ What are standard business hours?
-+ What department does the position report to?
-   + How many people work in that department?
++ How often do you review salaries?
++ Is the there good communication in the company?
 + What equipment is provided with the position?
 + What is the value of this position to your company?
 + What is your telecommuting policy?
-+ What tools do you use for internal communication? (email,chat,irc)
++ What tools do you use for internal communication?
+
+### Work-life balance
+
+#### Hours
+
++ Do you have flexible schedules?
++ Do you track hours?
+  + What tools do you use?
+  + How many client-billable hours do you expect per week?
+  + Is there a policy about objectives vs schedules?
++ How often are there emergencies or times when people have to work extra hours?
++ Is there the possibility to work remotely?
++ What time do people normally leave work?
+
+#### Vacation
+
++ How much vacation do people get? If there's "unlimited" vacation, how much vacation do people normally take?
+
+### Hiring and onboarding
+
++ Do you only hire excellent human beings?
++ How many devs were hired last year and how many left?
++ What is your turnover rate like?
++ What's the onboarding process like?
  
 ### Project Management
 
 + Can you describe a typical project life cycle?
 + Do you have dedicated project managers?
-   + If so, how many?
-   + Are they certified / what certification?
+  + If so, how many?
+  + Are they certified / what certification?
 + Do you use a bug tracking/ticketing system?
 + Do you use any project management software?
 + How do you organize project teams?
 + How often do you push code live?
++ How you evaluate your development team?
 + If Agile, what is your sprint length?
 + What is an average project size in terms of days/weeks/team members?
 + What is your development methodology?
 + What kind of seating arrangement do you have?
-   + Teams vs departments
+  + Teams vs departments
 
-### Clients
+### Clients and meetings
 
-+ Are FEDs expected to meet with clients?
-+ Do you send FEDs on sales calls?
-+ Do you track hours?
-   + What tools do you use?
-   + How many client-billable hours do you expect per week?
-+ How do you handle difficult clients, in particular:
-   + feature creep / design changes
-   + "Make the logo bigger"
-+ How often are clients in the office?
-+ What percentage of clients are internal vs external?
-+ Who is the primary POC for client interactions?
+* Are Front-end expected to meet with clients?
+* Are there no realistic deadlines?
+* Do you send Front-end on sales calls?
+* How do you handle difficult clients, in particular:
+  + Feature / design changes
+  + "Make the logo bigger"
+* How often are clients in the office?
+* What meetings? Time in meetings? Estimates? Client/Customer? Scrum meetings? Retrospectives? How many should I go as developer?
+* What percentage of clients are internal vs external?
 
 ### Bonus Questions
 
 + Do you believe an employee should ever "stay as late as it takes to get the job done?"
 + Do you ever bring in lunch/dinner during crunch times?
 + Do you send employees to tech conferences?
-   + Do you let them spend working hours creating talks to give at said conferences?
+  + Do you let them spend working hours creating talks to give at said conferences?
 + What do you think about Google's 20% policy?
 
 ### Coding
 
-+ Do you allow employees to publish code?
-+ Do you do code reviews?
++ % experimenting with libraries / languages / techniques?
++ % time for tech-debt, refactoring, readability, automation, or improving the code base.
++ Can developers propose new technologies & ideas to implement?
++ Do devs get shamed for breaking the build?
++ Do you care about the work that you do, and keep trying to do it better?
 + Do you have a coder blog?
 + Do you have a preferred CMS or development platform?
-+ Do you have coding style guide?
-   + Spaces or tabs?
 + Do you publish your code?
-+ Macs or PCs?
++ Do you test your code?
+    + If so. How?
++ Do you try to do best practices?
++ Do you use coding style guides?
+  + Spaces or tabs?
++ Do you use modern technologies?
++ How is your branch workflow?
++ Is there code maintainability?
++ Is there legacy code?
++ Macs, PCs or Linux?
++ What do you think about Software Craftsmanship?
 + What do you use for version control?
 + What is the oldest version of IE that you support?
 + What is your standard development toolkit?
++ Who decides what features get built?
+
+Open Source
+
++ Do you allow employees to publish code (Github)?
++ Which organisations work on open source?
++ Which projects?
 
 ### Markup
 
 + Accessibility
-   + Do you use WAI-ARIA?
-   + Is accessible AJAX a priority?
-   + Do you ever test for accessibility with screen reader software or a testing service?
-+ HTML5 or XHTML Strict?
-+ Semantics fanatic or divs and spans as necessary?
+  + Do you ever test for accessibility with screen reader software or a testing service?
+  + Do you use WAI-ARIA?
+  + Is accessible AJAX a priority?
++ Semantics or divs / spans as necessary?
 
 ### UX
 
 + Do you do user testing?
 + Do you have a UX team?
-   + if yes, can you give me an overview of your UX process?
+  + If yes, can you give me an overview of your UX process?
 + What's your current approach to mobile?
 
 ### Design
 
-+ Are FEDs involved in the design process?
-   + if so, at what point?
++ Are Front-end involved in the design process?
+  + If so, at what point?
++ Does the company value design?
 + How many design comps are created for a typical project?
 + What format do you use for design comps?
 
@@ -418,12 +464,17 @@ console.log('three');
 
 ### Quality Assurance
 
-+ At what point in the build do you begin QA?
-+ Bonus for continuous or unit testing
-+ Do you collect metrics on site visitors and user agents?
-+ Do you have any dedicated QA software or hardware?
-+ How do you determine browsers/devices for testing?
-+ What percentage of a build is dedicated to QA?
+* At what point in the build do you begin QA?
+* Bonus for continuous or unit testing
+* Do you collect metrics on site visitors and user agents?
+* Do you do code reviews?
+* Do you have any dedicated QA software or hardware?
+* Do you use pull request and pull request review?
+* How do you determine browsers/devices for testing?
+* How do you find bugs in your team's code?
+* Planning Code Reviews, QA, CI, Testing, Crossbrowser testing, Deployment, GIT, issue tracker?
+* What percentage of a build is dedicated to QA?
+* When something goes wrong, how do you handle it?
 
 ## Awesome Interview Questions
 
