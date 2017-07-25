@@ -283,14 +283,14 @@
  + HTML5 or XHTML Strict?
  + Semantics fanatic or divs and spans as necessary?
 
-### UX
+### UX
 
  + Do you do user testing?
  + Do you have a UX team?
   + if yes, can you give me an overview of your UX process?
  + What's your current approach to mobile?
 
-### Design
+### Design
 
  + Are FEDs involved in the design process?
   + if so, at what point?
@@ -303,7 +303,7 @@
  + How much time are programmers allowed to spend mentoring?
  + What are the primary programming languages used?
 
-### Quality Assurance
+### Quality Assurance
 
  + At what point in the build do you begin QA?
  + Bonus for continuous or unit testing
