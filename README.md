@@ -16,11 +16,21 @@
  1. [JavaScript Questions](#javascript-questions)
  1. [Testing Questions](#testing-questions)
  1. [Performance Questions](#performance-questions)
- 1. [Management Questions](#management-questions)
+ 1. [Management Questions](#management-questions-1)
  1. [Project Management](#project-management)
  1. [Clients](#clients)
  1. [Bonus Questions](#bonus-questions)
- 1. [Coding Standards](#coding-standards)
+ 1. [Coding](#coding)
+ 1. [Markup](#markup)
+ 1. [UX](#ux)
+ 1. [Design](#design)
+ 1. [Programming](#programming)
+ 1. [Quality Assurance](##quality-assurance)
+
+## Getting Involved
+
+ 1. [License](https://github.com/IgnaciodeNuevo/frontend-development-interviews)
+ 1. [Extra Info](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## General
 
@@ -340,3 +350,7 @@
 > A curated list of lists of technical interview questions.
 
  + [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#awesome-interviews-)
+
+## Extra Info
+
+> This was originally made here plus my own additions [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
