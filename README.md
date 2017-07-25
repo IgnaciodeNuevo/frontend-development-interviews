@@ -29,7 +29,7 @@
 1. [Project Management](#project-management)
 1. [Clients and Meetings](#clients-and-meetings)
 1. [Coding](#coding)
-1. [Open Source](##open-source)
+1. [Open Source](#open-source)
 1. [Markup](#markup)
 1. [UX](#ux)
 1. [Design](#design)
