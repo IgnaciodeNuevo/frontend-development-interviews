@@ -4,33 +4,36 @@
 
 ## Table of Contents
 
- 1. [General Articles](#general-articles)
- 1. [General Questions](#general-questions)
- 1. [General Resources](#general-resources)
- 1. [Books](#books)
- 1. [Videos](#videos)
- 1. [HTML Questions](#html-questions)
- 1. [CSS Articles](#css-articles)
- 1. [CSS Questions](#css-questions)
- 1. [JavaScript Articles](#javascript-articles)
- 1. [JavaScript Questions](#javascript-questions)
- 1. [Testing Questions](#testing-questions)
- 1. [Performance Questions](#performance-questions)
- 1. [Management Questions](#management-questions-1)
- 1. [Project Management](#project-management)
- 1. [Clients](#clients)
- 1. [Bonus Questions](#bonus-questions)
- 1. [Coding](#coding)
- 1. [Markup](#markup)
- 1. [UX](#ux)
- 1. [Design](#design)
- 1. [Programming](#programming)
- 1. [Quality Assurance](##quality-assurance)
+1. [General Articles](#general-articles)
+1. [General Questions](#general-questions)
+1. [General Resources](#general-resources)
+1. [Books](#books)
+1. [Videos](#videos)
+1. [HTML Questions](#html-questions)
+1. [CSS Articles](#css-articles)
+1. [CSS Questions](#css-questions)
+1. [JavaScript Articles](#javascript-articles)
+1. [JavaScript Questions](#javascript-questions)
+1. [Testing Questions](#testing-questions)
+1. [Performance Questions](#performance-questions)
+1. [Network Questions](#network-questions)
+1. [Coding Questions](#coding-questions)
+1. [Fun Questions](#fun-questions)
+1. [Management Questions](#management-questions-1)
+1. [Project Management](#project-management)
+1. [Clients](#clients)
+1. [Bonus Questions](#bonus-questions)
+1. [Coding](#coding)
+1. [Markup](#markup)
+1. [UX](#ux)
+1. [Design](#design)
+1. [Programming](#programming)
+1. [Quality Assurance](##quality-assurance)
 
 ## Getting Involved
 
- 1. [License](https://github.com/IgnaciodeNuevo/frontend-development-interviews/blob/master/LICENSE.md)
- 1. [Extra Info](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+1. [License](https://github.com/IgnaciodeNuevo/frontend-development-interviews/blob/master/LICENSE.md)
+1. [Extra Info](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## General
 
@@ -182,9 +185,9 @@
 + Explain how JSONP works (and how it's not really Ajax).
 + Explain how prototypal inheritance works
 + Explain the difference between mutable and immutable objects.
-   + What is an example of an immutable object in JavaScript?
-   + What are the pros and cons of immutability?
    + How can you achieve immutability in your own code?
+   + What are the pros and cons of immutability?
+   + What is an example of an immutable object in JavaScript?
 + Explain the difference between synchronous and asynchronous functions.
 + Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
 + Explain the same-origin policy with regards to JavaScript.
@@ -235,6 +238,85 @@
 + Explain the difference between layout, painting and compositing.
 + What are some ways you may improve your website's scrolling performance?
 + What tools would you use to find a performance bug in your code?
+
+## Network Questions
+
++ Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
++ Explain the following request and response headers:
+  + Diff. between Expires, Date, Age and If-Modified-...
+  + Do Not Track
+  + Cache-Control
+  + Transfer-Encoding
+  + ETag
+  + X-Frame-Options
++ Traditionally, why has it been better to serve site assets from multiple domains?
++ What are HTTP methods? List all HTTP methods that you know, and explain them.
++ What are the differences between Long-Polling, Websockets and Server-Sent Events?
+
+## Coding Questions
+
+*Question: What is the value of `foo`?*
+```javascript
+var foo = 10 + '20';
+```
+
+*Question: How would you make this work?*
+```javascript
+add(2, 5); // 7
+add(2)(5); // 7
+```
+
+*Question: What value is returned from the following statement?*
+```javascript
+"i'm a lasagna hog".split("").reverse().join("");
+```
+
+*Question: What is the value of `window.foo`?*
+```javascript
+( window.foo || ( window.foo = "bar" ) );
+```
+
+*Question: What is the outcome of the two alerts below?*
+```javascript
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+```
+
+*Question: What is the value of `foo.length`?*
+```javascript
+var foo = [];
+foo.push(1);
+foo.push(2);
+```
+
+*Question: What is the value of `foo.x`?*
+```javascript
+var foo = {n: 1};
+var bar = foo;
+foo.x = foo = {n: 2};
+```
+
+*Question: What does the following code print?*
+```javascript
+console.log('one');
+setTimeout(function() {
+  console.log('two');
+}, 0);
+console.log('three');
+```
+
+#### Fun Questions:
+
++ Do you have any pet projects? What kind?
++ How do you like your coffee?
++ What are some things you like about the developer tools you use?
++ What's a cool project that you've recently worked on?
++ What's your favorite feature of Internet Explorer?
++ Who inspires you in the front-end community?
 
 ## Management Questions
 
@@ -290,8 +372,6 @@
 + Do you send employees to tech conferences?
    + Do you let them spend working hours creating talks to give at said conferences?
 + What do you think about Google's 20% policy?
-
-## Coding Questions
 
 ### Coding
 
