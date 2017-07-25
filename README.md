@@ -5,18 +5,18 @@
 ## Table of Contents
 
 1. [General](#general)
-1. [General Articles](#general-articles)
-1. [General Questions](#general-questions)
-1. [General Resources](#general-resources)
+  1. [General Articles](#general-articles)
+  1. [General Questions](#general-questions)
+  1. [General Resources](#general-resources)
 1. [Books](#books)
 1. [Videos](#videos)
 1. [HTML Questions](#html-questions)
 1. [CSS](#css)
-1. [CSS Articles](#css-articles)
-1. [CSS Questions](#css-questions)
+  1. [CSS Articles](#css-articles)
+  1. [CSS Questions](#css-questions)
 1. [JavaScript](#javascript)
-1. [JavaScript Articles](#javascript-articles)
-1. [JavaScript Questions](#javascript-questions)
+  1. [JavaScript Articles](#javascript-articles)
+  1. [JavaScript Questions](#javascript-questions)
 1. [Testing Questions](#testing-questions)
 1. [Performance Questions](#performance-questions)
 1. [Network Questions](#network-questions)
@@ -28,13 +28,14 @@
 1. [Hiring and onboarding](#hiring-and-onboarding)
 1. [Project Management](#project-management)
 1. [Clients and Meetings](#clients-and-meetings)
-1. [Bonus Questions](#bonus-questions)
 1. [Coding](#coding)
+1. [Open Source](##open-source)
 1. [Markup](#markup)
 1. [UX](#ux)
 1. [Design](#design)
 1. [Programming](#programming)
 1. [Quality Assurance](##quality-assurance)
+1. [Bonus Questions](#bonus-questions)
 
 ## Getting Involved
 
@@ -359,7 +360,7 @@ console.log('three');
 + Is there the possibility to work remotely?
 + What time do people normally leave work?
 
-#### Holidays
+#### Holiday
 
 + How much vacation do people get? If there's "unlimited" vacation, how much vacation do people normally take?
 
@@ -398,14 +399,6 @@ console.log('three');
 * How often are clients in the office?
 * What meetings? Time in meetings? Estimates? Client/Customer? Scrum meetings? Retrospectives? How many should I go as developer?
 * What percentage of clients are internal vs external?
-
-### Bonus Questions
-
-+ Do you believe an employee should ever "stay as late as it takes to get the job done?"
-+ Do you ever bring in lunch/dinner during crunch times?
-+ Do you send employees to tech conferences?
-  + Do you let them spend working hours creating talks to give at said conferences?
-+ What do you think about Google's 20% policy?
 
 ### Coding
 
@@ -481,6 +474,14 @@ console.log('three');
 * Planning Code Reviews, QA, CI, Testing, Crossbrowser testing, Deployment, GIT, issue tracker?
 * What percentage of a build is dedicated to QA?
 * When something goes wrong, how do you handle it?
+
+### Bonus Questions
+
++ Do you believe an employee should ever "stay as late as it takes to get the job done?"
++ Do you ever bring in lunch/dinner during crunch times?
++ Do you send employees to tech conferences?
+  + Do you let them spend working hours creating talks to give at said conferences?
++ What do you think about Google's 20% policy?
 
 ## Awesome Interview Questions
 
