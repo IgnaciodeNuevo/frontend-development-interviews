@@ -50,11 +50,13 @@
 + [A developer’s guide to interviewing](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
 + [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 + [Cracking the front-end interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
++ [Hiring is Hard](https://bhilburn.org/hiring-is-hard/)
++ [How to interview your interviewers](https://medium.freecodecamp.org/how-to-interview-your-interviewers-f8f65ac57b80)
 + [How to prepare for a Front-end Developer interview?](https://news.ycombinator.com/item?id=12286547)
 + [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 + [Questions for our first 1:1](http://larahogan.me/blog/first-one-on-one-questions/)
 + [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
-+ [How to interview your interviewers](https://medium.freecodecamp.org/how-to-interview-your-interviewers-f8f65ac57b80)
++ [Update on Hiring: It's Still Hard](https://bhilburn.org/update-on-hiring-its-still-hard/)
  
 ### General Questions
 
