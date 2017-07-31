@@ -54,6 +54,7 @@
 + [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 + [Questions for our first 1:1](http://larahogan.me/blog/first-one-on-one-questions/)
 + [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
++ [How to interview your interviewers](https://medium.freecodecamp.org/how-to-interview-your-interviewers-f8f65ac57b80)
  
 ### General Questions
 
