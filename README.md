@@ -341,13 +341,20 @@ console.log('three');
 + How do you define front end development?
 + How do you manage company expenses?
   + If you need to go to a client's company how do you ask for bill refounds?
++ How long have you been here?
 + How many employees are in the company?
 + How often do you review salaries?
++ How often have you moved teams? What made you join the team you’re on right now? If you wanted to move teams, what would need to happen?
 + Is the there good communication in the company?
++ What did your day look like yesterday? Was that pretty typical? If not, what was different about it?
 + What equipment is provided with the position?
++ What is something you wish were different about your job?
++ What is the most fulfilling/exciting/technically complex project that you’ve worked on here so far?
 + What is the value of this position to your company?
 + What is your telecommuting policy?
 + What tools do you use for internal communication?
++ When you were last interviewing, what were some of your other options, and what made you choose this company?
++ When’s the last time you interacted with a founder? What was it regarding? Generally how involved are the founders in the day-to-day? (If the company is a startup) 
 
 ### Work-life balance
 
@@ -407,25 +414,32 @@ console.log('three');
 + % experimenting with libraries / languages / techniques?
 + % time for tech-debt, refactoring, readability, automation, or improving the code base.
 + Can developers propose new technologies & ideas to implement?
++ Can I view the source code?
 + Do devs get shamed for breaking the build?
 + Do you care about the work that you do, and keep trying to do it better?
 + Do you have a coder blog?
 + Do you have a preferred CMS or development platform?
 + Do you publish your code?
++ Do you tend to roll your own solutions more often or rely on third party tools?
 + Do you test your code?
-    + If so. How?
+  + If so. How?
 + Do you try to do best practices?
 + Do you use coding style guides?
   + Spaces or tabs?
 + Do you use modern technologies?
 + How is your branch workflow?
++ How long are your release cycles?
++ How often do you add new tools to the mix?
 + Is there code maintainability?
 + Is there legacy code?
 + Macs, PCs or Linux?
 + What do you think about Software Craftsmanship?
 + What do you use for version control?
++ What is the most costly technical decision made early on that the company is living with now?
 + What is the oldest version of IE that you support?
++ What is your stack?
 + What is your standard development toolkit?
++ What’s been the worst technical screw up that’s happened in the recent past? How did you guys deal with it? What changes were implemented afterwards to make sure it didn’t happen again?
 + Who decides what features get built?
 
 ### Open Source
