@@ -181,6 +181,7 @@
 + [Ten questions I’ve been asked, most more than once, over six technical JavaScript job interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/)
 + [The Best Front-end JavaScript Interview Questions (written by a Front-end Engineer)](https://performancejs.com/post/hde6d32/The-Best-Front-end-JavaScript-Interview-Questions-(written-by-a-Front-end-Engineer))
 + [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
++ [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer)) and [Answers](https://github.com/bcherny/frontend-interview-questions)
 
 ### JavaScript Questions
 
