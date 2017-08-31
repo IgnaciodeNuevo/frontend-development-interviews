@@ -182,6 +182,7 @@
 + [The Best Front-end JavaScript Interview Questions (written by a Front-end Engineer)](https://performancejs.com/post/hde6d32/The-Best-Front-end-JavaScript-Interview-Questions-(written-by-a-Front-end-Engineer))
 + [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 + [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer)) and [Answers](https://github.com/bcherny/frontend-interview-questions)
++ [Typical JavaScript interview exercises (explained)](https://dev.to/maxpou/typical-javascript-interview-exercises-explained)
 
 ### JavaScript Questions
 
