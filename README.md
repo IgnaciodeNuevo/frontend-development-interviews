@@ -57,6 +57,7 @@
 + [Questions for our first 1:1](http://larahogan.me/blog/first-one-on-one-questions/)
 + [The 30-minute guide to rocking your next coding interview](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b)
 + [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
++ [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 + [Update on Hiring: It's Still Hard](https://bhilburn.org/update-on-hiring-its-still-hard/)
  
 ### General Questions
