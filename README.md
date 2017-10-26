@@ -17,6 +17,7 @@
 1. [JavaScript](#javascript)
 1. [JavaScript Articles](#javascript-articles)
 1. [JavaScript Questions](#javascript-questions)
+1. [Testing Articles](#testing-articles)
 1. [Testing Questions](#testing-questions)
 1. [Performance Questions](#performance-questions)
 1. [Network Questions](#network-questions)
@@ -241,6 +242,10 @@
 + Why is it called a Ternary expression, what does the word "Ternary" indicate?
 + Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
 + Why would you use something like the `load` event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
+
+## Testing Articles
+
++ [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
 
 ## Testing Questions
 
