@@ -61,6 +61,7 @@
 + [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 + [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 + [Update on Hiring: It's Still Hard](https://bhilburn.org/update-on-hiring-its-still-hard/)
++ [Front-end interview preparation guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
  
 ### General Questions
 
