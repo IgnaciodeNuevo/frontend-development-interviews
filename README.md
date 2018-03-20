@@ -66,6 +66,7 @@
 * [Update on Hiring: It's Still Hard](https://bhilburn.org/update-on-hiring-its-still-hard/)
 * [Front-end interview preparation guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Mock interview questions for junior developers](https://github.com/charliegerard/mock-interview-questions)
 
 ### General Questions
 
