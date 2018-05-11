@@ -50,6 +50,7 @@
 
 ### General Articles
 
+* [Acronyms you should know when going to a job interview](https://dev.to/anze_kop1tar/acronyms-you-should-know-when-going-to-a-job-interview-369l)
 * [A collection of about 200 "what are the best" dev questions with answers](https://www.reddit.com/r/webdev/comments/41k1yy/a_collection_of_about_200_what_are_the_best_dev/)
 * [A developer’s guide to interviewing](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
 * [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
