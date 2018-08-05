@@ -71,6 +71,7 @@
 
 ### General Questions
 
+* [30 seconds of Interviews](https://30secondsofinterviews.org/)
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * Can you describe your workflow when you create a web page?
 * Describe how you would create a simple slideshow page.
