@@ -98,6 +98,7 @@
 ## General Resources
 
 * [Let's Code](https://leetcode.com/)
+* [Scared of Tech Interview in English? ](https://www.fullstack.cafe/)
 
 ## Books
 
