@@ -198,6 +198,7 @@
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](<https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer)>) and [Answers](https://github.com/bcherny/frontend-interview-questions)
 * [Typical JavaScript interview exercises (explained)](https://dev.to/maxpou/typical-javascript-interview-exercises-explained)
 * [Frontend Questionarie](https://github.com/bradfrost/frontend-guidelines-questionnaire)
+* [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
 ### JavaScript Questions
 
