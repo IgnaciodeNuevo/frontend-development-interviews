@@ -199,6 +199,7 @@
 * [Typical JavaScript interview exercises (explained)](https://dev.to/maxpou/typical-javascript-interview-exercises-explained)
 * [Frontend Questionarie](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+* [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 
 ### JavaScript Questions
 
